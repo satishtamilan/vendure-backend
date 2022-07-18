@@ -1,4 +1,4 @@
-import {
+8import {
     dummyPaymentHandler,
     DefaultJobQueuePlugin,
     DefaultSearchPlugin,
@@ -11,7 +11,7 @@ import path from 'path';
 
 export const config: VendureConfig = {
     apiOptions: {
-        port: 3000,
+        port: 80,
         adminApiPath: 'admin-api',
         adminApiPlayground: {
             settings: {
