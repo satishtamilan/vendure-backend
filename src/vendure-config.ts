@@ -11,7 +11,7 @@ import path from 'path';
 
 export const config: VendureConfig = {
     apiOptions: {
-        port: 80,
+        port: 3000,
         adminApiPath: 'admin-api',
         adminApiPlayground: {
             settings: {
