@@ -1,4 +1,4 @@
-8import {
+import {
     dummyPaymentHandler,
     DefaultJobQueuePlugin,
     DefaultSearchPlugin,
